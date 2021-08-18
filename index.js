@@ -1,6 +1,5 @@
 //Dependencies
 const Puppeteer = require("puppeteer")
-const Request = require("request")
 const Chalk = require("chalk")
 const Fs = require("fs")
 
