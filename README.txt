@@ -12,3 +12,6 @@ Right now, no.
 
 Is SherNode modules & main code can easily be understand or It's simplified?
 Yes, SherNode is design with the word "simplified" so other people can understand it easily also It's really easy to customize, modify the codes & the fact that the codes are really small It makes it much better.
+
+Why are there like 10 modules only?
+Because I'm really busy & lazy to make more that's why, I'm sorry.
