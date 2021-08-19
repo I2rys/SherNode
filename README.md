@@ -26,7 +26,7 @@ If you have any suggestions please make a "Pull requests" [here](https://github.
 ### Did you encounter a bug or an error?
 If you have encountered a bug, error or having a problem running SherNode please make an issue [here](https://github.com/I2rys/SherNode/issues).
 
-## Inspired from
+## Inspired by
 https://github.com/sherlock-project/sherlock
 
 ## License
