@@ -1,3 +1,4 @@
+
 <h1 align="center">SherNode</h1>
 <h4 align="center">⚡  Fast, easily configurable and simplified codes NodeJS version of Sherlock</h4>
 <p align="center">
@@ -27,7 +28,7 @@ NPM Packages:
  - And so on because It will automatically parse it.
 
 ## Contributing
-I would love you to help me with the development of SherNode, every contribution will be appreciated even though I can't enable the feature.
+I would love you to help me with the development of SherNode, every contribution will be appreciated.
 
 ### Do you have any suggestions?
 If you have any suggestions please make a "Pull requests" [here](https://github.com/I2rys/SherNode/pulls).
