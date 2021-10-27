@@ -31,7 +31,7 @@ async function Initiate_A_Checker(website, parsed_name, selector_for_account_exi
 }
 
 //Main
-if(Self_Args.length == 0){
+if(!Self_Args.length){
     console.log(`node index.js <first name> <last name> <and so on>
 
 First name & Last name example:
